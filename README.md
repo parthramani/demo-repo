@@ -1,3 +1,3 @@
 # Demo
 
-YT Link: https://www.youtube.com/watch?feature=youtu.be&v=RGOj5yH7evk
+YT Link: https://youtu.be/RGOj5yH7evk
